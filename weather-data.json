@@ -1,0 +1,224 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": "Delhi",
+      "country": "India",
+      "temperature": 22,
+      "feelsLike": 20,
+      "condition": "Partly Cloudy",
+      "humidity": 60,
+      "windSpeed": 15,
+      "icon": "⛅"
+    },
+    {
+      "id": 2,
+      "name": "Mumbai",
+      "country": "India",
+      "temperature": 28,
+      "feelsLike": 32,
+      "condition": "Sunny",
+      "humidity": 75,
+      "windSpeed": 20,
+      "icon": "🌞"
+    },
+    {
+      "id": 3,
+      "name": "Bangalore",
+      "country": "India",
+      "temperature": 26,
+      "feelsLike": 25,
+      "condition": "Clear",
+      "humidity": 50,
+      "windSpeed": 12,
+      "icon": "☀️"
+    },
+    {
+      "id": 4,
+      "name": "Kolkata",
+      "country": "India",
+      "temperature": 24,
+      "feelsLike": 22,
+      "condition": "Cloudy",
+      "humidity": 70,
+      "windSpeed": 18,
+      "icon": "☁️"
+    },
+    {
+      "id": 5,
+      "name": "Chennai",
+      "country": "India",
+      "temperature": 30,
+      "feelsLike": 33,
+      "condition": "Humid",
+      "humidity": 80,
+      "windSpeed": 22,
+      "icon": "🌦️"
+    },
+    {
+      "id": 6,
+      "name": "Pune",
+      "country": "India",
+      "temperature": 25,
+      "feelsLike": 23,
+      "condition": "Clear",
+      "humidity": 55,
+      "windSpeed": 14,
+      "icon": "☀️"
+    },
+    {
+      "id": 7,
+      "name": "Hyderabad",
+      "country": "India",
+      "temperature": 27,
+      "feelsLike": 26,
+      "condition": "Partly Cloudy",
+      "humidity": 65,
+      "windSpeed": 16,
+      "icon": "⛅"
+    },
+    {
+      "id": 8,
+      "name": "Jaipur",
+      "country": "India",
+      "temperature": 23,
+      "feelsLike": 21,
+      "condition": "Sunny",
+      "humidity": 58,
+      "windSpeed": 13,
+      "icon": "🌞"
+    },
+    {
+      "id": 9,
+      "name": "Ahmedabad",
+      "country": "India",
+      "temperature": 29,
+      "feelsLike": 31,
+      "condition": "Sunny",
+      "humidity": 68,
+      "windSpeed": 19,
+      "icon": "🌞"
+    },
+    {
+      "id": 10,
+      "name": "Lucknow",
+      "country": "India",
+      "temperature": 21,
+      "feelsLike": 19,
+      "condition": "Cloudy",
+      "humidity": 62,
+      "windSpeed": 17,
+      "icon": "☁️"
+    },
+    {
+      "id": 11,
+      "name": "Chandigarh",
+      "country": "India",
+      "temperature": 18,
+      "feelsLike": 16,
+      "condition": "Partly Cloudy",
+      "humidity": 52,
+      "windSpeed": 11,
+      "icon": "⛅"
+    },
+    {
+      "id": 12,
+      "name": "Indore",
+      "country": "India",
+      "temperature": 24,
+      "feelsLike": 22,
+      "condition": "Clear",
+      "humidity": 54,
+      "windSpeed": 13,
+      "icon": "☀️"
+    },
+    {
+      "id": 13,
+      "name": "Surat",
+      "country": "India",
+      "temperature": 28,
+      "feelsLike": 30,
+      "condition": "Humid",
+      "humidity": 72,
+      "windSpeed": 18,
+      "icon": "🌦️"
+    },
+    {
+      "id": 14,
+      "name": "Vadodara",
+      "country": "India",
+      "temperature": 26,
+      "feelsLike": 25,
+      "condition": "Sunny",
+      "humidity": 60,
+      "windSpeed": 15,
+      "icon": "🌞"
+    },
+    {
+      "id": 15,
+      "name": "Kochi",
+      "country": "India",
+      "temperature": 31,
+      "feelsLike": 34,
+      "condition": "Humid",
+      "humidity": 85,
+      "windSpeed": 24,
+      "icon": "🌦️"
+    },
+    {
+      "id": 16,
+      "name": "Guwahati",
+      "country": "India",
+      "temperature": 22,
+      "feelsLike": 20,
+      "condition": "Rainy",
+      "humidity": 78,
+      "windSpeed": 21,
+      "icon": "🌧️"
+    },
+    {
+      "id": 17,
+      "name": "Bhopal",
+      "country": "India",
+      "temperature": 23,
+      "feelsLike": 21,
+      "condition": "Clear",
+      "humidity": 56,
+      "windSpeed": 12,
+      "icon": "☀️"
+    },
+    {
+      "id": 18,
+      "name": "Visakhapatnam",
+      "country": "India",
+      "temperature": 29,
+      "feelsLike": 31,
+      "condition": "Sunny",
+      "humidity": 70,
+      "windSpeed": 20,
+      "icon": "🌞"
+    },
+    {
+      "id": 19,
+      "name": "Nagpur",
+      "country": "India",
+      "temperature": 25,
+      "feelsLike": 23,
+      "condition": "Partly Cloudy",
+      "humidity": 63,
+      "windSpeed": 14,
+      "icon": "⛅"
+    },
+    {
+      "id": 20,
+      "name": "Patna",
+      "country": "India",
+      "temperature": 20,
+      "feelsLike": 18,
+      "condition": "Cloudy",
+      "humidity": 64,
+      "windSpeed": 16,
+      "icon": "☁️"
+    }
+  ]
+}
